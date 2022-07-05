@@ -1,6 +1,6 @@
 # Utilities
 
-**TODO: Add description**
+**These are some functions for handling common problems using Elixir**
 
 ## Installation
 
